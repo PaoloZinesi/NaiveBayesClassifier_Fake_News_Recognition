@@ -1,0 +1,14 @@
+name: fake-news-recognition
+title: fake-news-recognition
+username:
+account: paolozinesi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7123851
+bundleId: 6339660
+url: https://paolozinesi.shinyapps.io/fake-news-recognition/
+when: 1664210758.23733
+lastSyncTime: 1664210758.23735
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rapp.history
