@@ -1,4 +1,4 @@
-# Naive Bayes classifier for Fake News recognition
+# Naive Bayes classifier for Fake News recognition ![ ](https://img.shields.io/badge/R-bdbfc2?style=for-the-badge&logo=r&logoColor=1c68bc)
 
 Fake news are defined by the New York Times as ”a made-up story with an intention to deceive”, with the intent to confuse or deceive people.
 They are everywhere in our daily life, and come especially from social media platforms and applications in the online world.
